@@ -6,4 +6,4 @@
 
 目前精通的语言有Markdown
 
-📫 [给我发邮件]ZSXM62721@outlook.com)
+📫1ZSXM62721@outlook.com
