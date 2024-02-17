@@ -1,19 +1,6 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm 战神小猫</h1>
+<h3 align="center">I'm from China. I love open source.</h3>
 
-## 野田春水碧于镜，人影渡傍鸥不惊。
-
-### 你好
-
-我是战神小猫 ![GitHub followers](https://img.shields.io/github/followers/zhanshenxiaomao)
-
-
-🌟 我来自中国 热爱编程
-
-目前精通的语言有Markdown
-
-📫ZSXM62721@outlook.com
-
-### 这只猫猫很可爱 请给猫猫一点钱
-<a href="https://www.buymeacoffee.com/zhanshenxiaomao" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
