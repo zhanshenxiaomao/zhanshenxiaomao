@@ -21,5 +21,4 @@ I love open source
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zhanshenxiaomao&theme=github-dark)](https://git.io/streak-stats)
 
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api)
