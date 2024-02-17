@@ -22,5 +22,3 @@ I love open source
 [![GitHub Streak](https://streak-stats.demolab.com?user=zhanshenxiaomao&theme=github-dark)](https://git.io/streak-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Metrics](https://metrics.lecoq.io/zhanshenxiaomao?template=classic&lines=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&traffic=false&config.timezone=Asia%2FShanghai)
