@@ -8,7 +8,7 @@ I am from China
 
 I love open source
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/zhanshenxiaomao) [![xiaomao-organization](https://img.shields.io/badge/xiaomao-organization-%2351c4d3?style=for-the-badge&logo=GitHub&labelColor=%232f90b9)](https://github.com/xiaomao-organization)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/zhanshenxiaomao)
 
 </div>
 
