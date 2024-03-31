@@ -8,8 +8,6 @@ I am from China
 
 I love open source
 
-
-
 </div>
 
 ### i am learning
